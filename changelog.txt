@@ -1,0 +1,4 @@
+=== WooCommerce Extension Boilerplate ===
+
+2016.01.09 - version 1.0
+ * First Release
